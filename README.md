@@ -14,6 +14,9 @@ The "Artificial Intelligence in a Human World" deck
 └── README.md               # Summary of the "Five Patterns" and how they link the papers to the code
 ```
 
+# Artificial Intelligence in a Human World
+- [Artificial Intelligence  in a Human World.pdf](https://github.com/dwellman/AI/blob/main/Artificial%20Intelligence%20%20in%20a%20Human%20World.pdf)
+  
 # Theoretical Frameworks:
 
 - Move 37: On the shift from truth to reward-seeking behavior.
