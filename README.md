@@ -23,7 +23,7 @@ The "Artificial Intelligence in a Human World" deck
   
 - [The Dark Triad](https://github.com/dwellman/AI/blob/main/papers/dark-triad.md): Emergent behavioral risks in self-reinforcing models.
 
-- [Artificial Empathy](https://github.com/dwellman/AI/blob/main/papers/move-37.md): Operationalizing ethics through system constraints.
+- [Artificial Empathy](https://github.com/dwellman/AI/blob/main/papers/artificial-empathy.md): Operationalizing ethics through system constraints.
 
 # Implementations (GitHub):
 
