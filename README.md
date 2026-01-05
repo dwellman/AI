@@ -29,5 +29,5 @@ The "Artificial Intelligence in a Human World" deck
 
 - [VAWK](https://github.com/dwellman/vawk): Demo of Grounding and Verification for coding. 
 
-- [BUUI Adventure](https://github.com/dwellman/adventure): Demo of state-anchored orchestration and game-engine verification.
+- [BUUI](https://github.com/dwellman/adventure): Demo of state-anchored orchestration and game-engine verification.
 
