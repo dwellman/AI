@@ -2,6 +2,8 @@
 
 This presentation, "Artificial Intelligence in a Human World," provides a technical blueprint for moving beyond simple prompt engineering to robust systems engineering. It introduces the Solver-Checker Algorithm, a framework designed to manage the inherent "Plausibility Paradox" of Large Language Models (LLMs).
 
+- [Artificial Intelligence in a Human World](https://github.com/dwellman/AI/blob/main/Artificial%20Intelligence%20%20in%20a%20Human%20World.pdf)
+
 ## Core Themes
 
 - **The Plausibility Paradox**: LLMs are probabilistic engines optimized for fluent, plausible output rather than objective truth. Hallucination is viewed as a "feature" of this fluency, but becomes a "bug" (or "smudge") when it violates critical business logic or regulatory rules.
@@ -41,6 +43,14 @@ The presentation draws inspiration from three foundational texts that bridge the
 
 - **The Elements of Programming Style** by Kernighan & Plauger (Logic and Clarity) (Kernighan is the 'K' in VAWK) [https://a.co/d/35IA5ZW]
 
+## Theoretical Frameworks as Position Papers:
+
+- [Move 37](https://github.com/dwellman/AI/blob/main/papers/move-37.md): On the shift from truth to reward-seeking behavior.
+  
+- [The Dark Triad](https://github.com/dwellman/AI/blob/main/papers/dark-triad.md): Emergent behavioral risks in self-reinforcing models.
+
+- [Artificial Empathy](https://github.com/dwellman/AI/blob/main/papers/artificial-empathy.md): Operationalizing ethics through system constraints.
+
 ## Organization
 ```
 /
@@ -54,14 +64,3 @@ The presentation draws inspiration from three foundational texts that bridge the
 │   └── adventure/          # BUUI Adventure implementation
 └── README.md               # Summary of the "Five Patterns" and how they link the papers to the code
 ```
-
-# Artificial Intelligence in a Human World
-- [Artificial Intelligence in a Human World](https://github.com/dwellman/AI/blob/main/Artificial%20Intelligence%20%20in%20a%20Human%20World.pdf)
-  
-# Theoretical Frameworks as Position Papers:
-
-- [Move 37](https://github.com/dwellman/AI/blob/main/papers/move-37.md): On the shift from truth to reward-seeking behavior.
-  
-- [The Dark Triad](https://github.com/dwellman/AI/blob/main/papers/dark-triad.md): Emergent behavioral risks in self-reinforcing models.
-
-- [Artificial Empathy](https://github.com/dwellman/AI/blob/main/papers/artificial-empathy.md): Operationalizing ethics through system constraints.
