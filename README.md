@@ -15,19 +15,19 @@ The "Artificial Intelligence in a Human World" deck
 ```
 
 # Artificial Intelligence in a Human World
-- [Artificial Intelligence in a Human World](github.com)
+- [Artificial Intelligence in a Human World](https://github.com/dwellman/AI/blob/main/Artificial%20Intelligence%20%20in%20a%20Human%20World.pdf)
   
 # Theoretical Frameworks:
 
-- [Move 37](github.com): On the shift from truth to reward-seeking behavior.
+- [Move 37](https://github.com/dwellman/AI/blob/main/papers/move-37.md): On the shift from truth to reward-seeking behavior.
   
-- [The Dark Triad](github.com): Emergent behavioral risks in self-reinforcing models.
+- [The Dark Triad](https://github.com/dwellman/AI/blob/main/papers/dark-triad.md): Emergent behavioral risks in self-reinforcing models.
 
-- [Artificial Empathy](github.com): Operationalizing ethics through system constraints.
+- [Artificial Empathy](https://github.com/dwellman/AI/blob/main/papers/move-37.md): Operationalizing ethics through system constraints.
 
 # Implementations (GitHub):
 
-- [VAWK](github.com): Demo of Grounding and Verification for coding. 
+- [VAWK](https://github.com/dwellman/vawk): Demo of Grounding and Verification for coding. 
 
-- [BUUI Adventure](github.com): Demo of state-anchored orchestration and game-engine verification.
+- [BUUI Adventure](https://github.com/dwellman/adventure): Demo of state-anchored orchestration and game-engine verification.
 
