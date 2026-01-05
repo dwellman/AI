@@ -15,23 +15,19 @@ The "Artificial Intelligence in a Human World" deck
 ```
 
 # Artificial Intelligence in a Human World
-- https://github.com/dwellman/AI/blob/main/Artificial%20Intelligence%20%20in%20a%20Human%20World.pdf
+- [Artificial Intelligence in a Human World](https://github.com/dwellman/AI/blob/main/Artificial%20Intelligence%20%20in%20a%20Human%20World.pdf)
   
 # Theoretical Frameworks:
 
-- Move 37: On the shift from truth to reward-seeking behavior.
-- https://github.com/dwellman/AI/blob/main/papers/move-37.md
+- [Move 37](https://github.com/dwellman/AI/blob/main/papers/move-37.md): On the shift from truth to reward-seeking behavior.
   
-- The Dark Triad: Emergent behavioral risks in self-reinforcing models.
-- https://github.com/dwellman/AI/blob/main/papers/dark-triad.md
+- [The Dark Triad](https://github.com/dwellman/AI/blob/main/papers/dark-triad.md): Emergent behavioral risks in self-reinforcing models.
 
-- Artificial Empathy: Operationalizing ethics through system constraints.
-- https://github.com/dwellman/AI/blob/main/papers/artificial-empathy.md
+- [Artificial Empathy](https://github.com/dwellman/AI/blob/main/papers/artificial-empathy.md): Operationalizing ethics through system constraints.
 
 # Implementations (GitHub):
 
-- VAWK: Demo of Grounding and Verification for coding. 
-- https://github.com/dwellman/vawk
+- [VAWK](https://github.com/dwellman/vawk): Demo of Grounding and Verification for coding. 
 
-- BUUI Adventure: Demo of state-anchored orchestration and game-engine verification.
-- https://github.com/dwellman/adventure
+- [BUUI](https://github.com/dwellman/adventure): Demo of state-anchored orchestration and game-engine verification.
+
