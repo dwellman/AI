@@ -13,6 +13,18 @@ This presentation, "Artificial Intelligence in a Human World," provides a techni
 
 - **Epistemics vs. Governance**: The framework distinguishes between Epistemics—content that must be observationally true within a specific story or context—and Governance—outputs that must be factually accurate and verifiable through deterministic systems.
 
+## Ideas Introduced
+
+- **Visible Ink**: “The Surface”: What the AI says. It is the dialogue, the tone, and the fluency.
+
+- **Invisible Ink**: “The Understructure or Armature”: The rules the AI must obey. It is the business logic, the regulatory rules, and your specific intent.
+
+- **A Story**: Any process where the "Invisible Ink" (the story rules) must govern the "Visible Ink" (the output) to maintain trust and utility.
+
+- **Execution Truth**: The "Ground Truth" or binary correctness. It is the verified proof—such as a successful compile or a validated state change—that ensures the Invisible Ink has been successfully defended.
+
+- **A Smudge**: The “Plausibility Paradox” or "when is hallucination a bug or not a bug?" – When the Visible Ink (the plausible performance) bleeds through and overwrites the Invisible Ink (the story/business rules).
+
 ## The Solver-Checker Algorithm
 The centerpiece of the presentation is a 5-pattern framework for building reliable AI boundaries:
 
