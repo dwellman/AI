@@ -76,3 +76,5 @@ The presentation draws inspiration from three foundational texts that bridge the
 │   └── adventure/          # BUUI Adventure implementation
 └── README.md               # Summary of the "Five Patterns" and how they link the papers to the code
 ```
+
+[ai-adoption-qa.md] (https://github.com/dwellman/AI/blob/main/ai-adoption-qa.md)
