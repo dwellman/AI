@@ -66,7 +66,7 @@ The presentation draws inspiration from three foundational texts that bridge the
 ## Organization
 ```
 /
-├── presentation.pdf        # The "Artificial Intelligence in a Human World" deck
+├── presentation.pdf        # The "Practical Lessons from Production AI" deck
 ├── papers/
 │   ├── move-37.md          # Reward drift and plausibility thesis
 │   ├── dark-triad.md       # Behavioral risks (Narcissism/Psychopathy)
