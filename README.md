@@ -1,6 +1,6 @@
-# Artificial Intelligence in a Human World
+# APractical Lessons from Production AI
 
-This presentation, "Artificial Intelligence in a Human World," provides a technical blueprint for moving beyond simple prompt engineering to robust systems engineering. It introduces the Solver-Checker Algorithm, a framework designed to manage the inherent "Plausibility Paradox" of Large Language Models (LLMs).
+This presentation, "Practical Lessons from Production AI," provides a technical blueprint for moving beyond simple prompt engineering to robust systems engineering. It introduces the Solver-Checker Algorithm, a framework designed to manage the inherent "Plausibility Paradox" of Large Language Models (LLMs).
 
 - [Artificial Intelligence in a Human World](https://github.com/dwellman/AI/blob/main/Artificial%20Intelligence%20%20in%20a%20Human%20World.pdf)
 
