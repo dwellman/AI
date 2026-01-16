@@ -2,7 +2,7 @@
 
 This presentation, "Practical Lessons from Production AI," provides a technical blueprint for moving beyond simple prompt engineering to robust systems engineering. It introduces the Solver-Checker Algorithm, a framework designed to manage the inherent "Plausibility Paradox" of Large Language Models (LLMs).
 
-- [Practical Lessons from Production AI](https://github.com/dwellman/AI/blob/main/Practical%20Lessons%20from%20Production%20AI.pdf)
+- [Practical Lessons from Production AI] (https://github.com/dwellman/AI/blob/main/Practical%20Lessons%20from%20Production%20AI.pdf)
 - [VAWK Demo] (https://drive.google.com/file/d/18-zMEe3cm4t1P1UrEKhdkGRH2aByRlPi/view?usp=drive_link)
 - [BUUI Adventure] (https://drive.google.com/file/d/1HJnNMo0YLnASPL-Dl3UzcEouwSrl-Z8G/view?usp=drive_link)
 
